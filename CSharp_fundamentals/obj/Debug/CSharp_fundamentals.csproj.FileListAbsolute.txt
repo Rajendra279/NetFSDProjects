@@ -1,0 +1,7 @@
+C:\Users\rajendra_kumar_vanka\source\repos\FSDPhaseone_sessiontwo\CSharp_fundamentals\bin\Debug\CSharp_fundamentals.exe.config
+C:\Users\rajendra_kumar_vanka\source\repos\FSDPhaseone_sessiontwo\CSharp_fundamentals\bin\Debug\CSharp_fundamentals.exe
+C:\Users\rajendra_kumar_vanka\source\repos\FSDPhaseone_sessiontwo\CSharp_fundamentals\bin\Debug\CSharp_fundamentals.pdb
+C:\Users\rajendra_kumar_vanka\source\repos\FSDPhaseone_sessiontwo\CSharp_fundamentals\obj\Debug\CSharp_fundamentals.csprojAssemblyReference.cache
+C:\Users\rajendra_kumar_vanka\source\repos\FSDPhaseone_sessiontwo\CSharp_fundamentals\obj\Debug\CSharp_fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\rajendra_kumar_vanka\source\repos\FSDPhaseone_sessiontwo\CSharp_fundamentals\obj\Debug\CSharp_fundamentals.exe
+C:\Users\rajendra_kumar_vanka\source\repos\FSDPhaseone_sessiontwo\CSharp_fundamentals\obj\Debug\CSharp_fundamentals.pdb
